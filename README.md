@@ -53,9 +53,11 @@ uncovering rating patterns, customer preferences, and pricing distribution.
 Data Analyst | Python & SQL Enthusiast | Power BI Learner
 
 📧 Email: poojafaliya1@gmail.com
+
 💼 LinkedIn: http://www.linkedin.com/in/pooja-faliya-8b5428358
+
 📂 GitHub: https://github.com/poojafaliya
-👇
+
 
 💬 open to opertunities in data analysis
 
