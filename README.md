@@ -43,9 +43,19 @@ uncovering rating patterns, customer preferences, and pricing distribution.
 - EDA (Exploratory Data Analysis)
 
 - Histograms, Countplots, Line charts, Boxplots, Heatmap
-
+  
 # 📂 file included
-# zomato_data
 ## https://github.com/poojafaliya/zometo-project/blob/main/Zomato_data.csv
 
+
+# 👤 Author
+[Pooja Faliya]
+Data Analyst | Python & SQL Enthusiast | Power BI Learner
+
+📧 Email: poojafaliya1@gmail.com
+💼 LinkedIn: http://www.linkedin.com/in/pooja-faliya-8b5428358
+📂 GitHub: https://github.com/poojafaliya
+👇
+
+💬 open to opertunities in data analysis
 
